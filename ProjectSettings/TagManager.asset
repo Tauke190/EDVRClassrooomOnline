@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Body
+  - Enemy
+  - Point
+  - Skeleton
+  - Building
+  - Cuttable
+  - Wheel
+  - Planet
+  - Ground
+  - Bone
+  - PortalRing
+  - Slider
+  - SliderUp
+  - SliderDown
+  - projectile
+  - FxTemporaire
+  - Button
+  - InnerBone
+  - MenuObject
+  - SeeThrough
+  - Sword
+  - PortalSphere
+  - Location
+  - Holder
+  - Object
+  - Tutorial
+  - EarthSplit
+  - RecordButton
+  - mercury
+  - jupiter
+  - venus
+  - earth
+  - mars
+  - saturn
+  - neptune
+  - uranus
+  - Saturn
+  - sun
+  - Interactable
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
